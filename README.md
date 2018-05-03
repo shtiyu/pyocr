@@ -1,6 +1,6 @@
 # pyocr
 
-基于`腾讯云OCR`的文本识别工具
+基于`[腾讯云OCR](https://cloud.tencent.com/document/product/641/12428)`的文本识别工具
 
 ## Installation
 ```
