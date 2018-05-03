@@ -13,4 +13,4 @@ pip3 install requests
 python3 main.py
 ```
 ## Bug
-- OS X启动截屏后，无法退出
+- OS X启动截屏（生成全屏窗口）后，全屏窗口无法退出
